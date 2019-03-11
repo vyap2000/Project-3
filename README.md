@@ -9,3 +9,4 @@
 #### The company is still small, and though investment is substantial the short-term goals of the company are more oriented towards purchasing existing houses and flipping them as opposed to constructing entirely new houses. That being said, the company has access to a large construction workforce operating at rock-bottom prices.
 
 #### This project uses the Ames housing data recently made available on kaggle.
+https://www.kaggle.com/c/house-prices-advanced-regression-techniques
