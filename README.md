@@ -1,6 +1,8 @@
 ## Project 3
 
-### Scope: 
+### Title:  Regression and Classification with the Ames Housing Data
+
+### Business Case: 
 
 #### You have just joined a new "full stack" real estate company in Ames, Iowa. The strategy of the firm is two-fold:
 
